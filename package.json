@@ -1,6 +1,9 @@
 {
   "name": "mern-token-auth",
-  "version": "9.3.0",
+  "version": "0.0.1",
+  "engines": {
+    "node": "9.3.0"
+  },
   "private": true,
   "main": "app.js",
   "scripts": {
@@ -17,7 +20,6 @@
     "jsonwebtoken": "^8.2.1",
     "mongoose": "^4.12.3",
     "morgan": "~1.9.0",
-    "react-router-dom": "^4.2.2",
     "serve-favicon": "~2.4.5"
   }
 }
