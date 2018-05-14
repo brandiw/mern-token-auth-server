@@ -1,6 +1,6 @@
 {
   "name": "mern-token-auth",
-  "version": "0.0.0",
+  "version": "9.3.0",
   "private": true,
   "main": "app.js",
   "scripts": {
